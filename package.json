@@ -43,5 +43,10 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.195"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
